@@ -69,7 +69,7 @@ gambaProvider.gambaProgram.addEventListener(
         `*Metadata:* \`${metadataInfo}\``,
         "",
         "",
-        "Built by [bankkroll](https://twitter.com/bankkroll_eth)",
+        "",
       ].join("\n");
 
       const options: SendMessageOptions = {
