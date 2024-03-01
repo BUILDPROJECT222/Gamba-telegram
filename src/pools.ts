@@ -103,6 +103,11 @@ const poolsConfig: PoolConfig = {
         decimals: 9,
         icon: "https://i.ibb.co/SvfbhLy/imageedit-37-6175591894.png",
     },
+  "8CofuxeTuXjrZSMahW9wYkedVoNcvwua6aJeM1UhxuLh": {
+        name: "Solana Arcade",
+        symbol: "SOLCADE",
+        decimals: 6,
+        icon: "https://i.ibb.co/7GGztMG/logo-32.png",
 };
 
 export default poolsConfig;
