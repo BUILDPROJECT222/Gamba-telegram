@@ -9,9 +9,6 @@
         "start": "node dist/index.js",
         "dev": "ts-node src/index.ts"
     },
-    "repository": {
-        "type":"git",
-        "url": "https://github.com/BUILDPROJECT222/Gamba-telegram.git"
     "dependencies": {
         "@solana/wallet-adapter-react": "^0.15.35",
         "@solana/wallet-adapter-wallets": "^0.19.26",
